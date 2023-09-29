@@ -1,0 +1,33 @@
+C:\Users\Samuel\Google Drive\Projets Visual Studio\TP_Structure\TP_Structure\bin\Debug\TP_Structure.exe.config
+C:\Users\Samuel\Google Drive\Projets Visual Studio\TP_Structure\TP_Structure\bin\Debug\TP_Structure.exe
+C:\Users\Samuel\Google Drive\Projets Visual Studio\TP_Structure\TP_Structure\bin\Debug\TP_Structure.pdb
+C:\Users\Samuel\Google Drive\Projets Visual Studio\TP_Structure\TP_Structure\obj\Debug\TP_Structure.csprojAssemblyReference.cache
+C:\Users\Samuel\Google Drive\Projets Visual Studio\TP_Structure\TP_Structure\obj\Debug\TP_Structure.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Google Drive\Projets Visual Studio\TP_Structure\TP_Structure\obj\Debug\TP_Structure.exe
+C:\Users\Samuel\Google Drive\Projets Visual Studio\TP_Structure\TP_Structure\obj\Debug\TP_Structure.pdb
+C:\Users\mlazar\Desktop\COLLEGES\ROSEMONT\Moi\Etape 3\technique interface utilisateur C#\Semaine 5 lab structure et revision\TP_Structure_Meriem\TP_Structure\bin\Debug\TP_Structure.exe.config
+C:\Users\mlazar\Desktop\COLLEGES\ROSEMONT\Moi\Etape 3\technique interface utilisateur C#\Semaine 5 lab structure et revision\TP_Structure_Meriem\TP_Structure\bin\Debug\TP_Structure.exe
+C:\Users\mlazar\Desktop\COLLEGES\ROSEMONT\Moi\Etape 3\technique interface utilisateur C#\Semaine 5 lab structure et revision\TP_Structure_Meriem\TP_Structure\bin\Debug\TP_Structure.pdb
+C:\Users\mlazar\Desktop\COLLEGES\ROSEMONT\Moi\Etape 3\technique interface utilisateur C#\Semaine 5 lab structure et revision\TP_Structure_Meriem\TP_Structure\obj\Debug\TP_Structure.csprojAssemblyReference.cache
+C:\Users\mlazar\Desktop\COLLEGES\ROSEMONT\Moi\Etape 3\technique interface utilisateur C#\Semaine 5 lab structure et revision\TP_Structure_Meriem\TP_Structure\obj\Debug\TP_Structure.csproj.CoreCompileInputs.cache
+C:\Users\mlazar\Desktop\COLLEGES\ROSEMONT\Moi\Etape 3\technique interface utilisateur C#\Semaine 5 lab structure et revision\TP_Structure_Meriem\TP_Structure\obj\Debug\TP_Structure.exe
+C:\Users\mlazar\Desktop\COLLEGES\ROSEMONT\Moi\Etape 3\technique interface utilisateur C#\Semaine 5 lab structure et revision\TP_Structure_Meriem\TP_Structure\obj\Debug\TP_Structure.pdb
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Techniques de réalisation d'interfaces utilisateur\Travaux\Correction du prof\TP_Structure_Meriem\TP_Structure\bin\Debug\TP_Structure.exe.config
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Techniques de réalisation d'interfaces utilisateur\Travaux\Correction du prof\TP_Structure_Meriem\TP_Structure\bin\Debug\TP_Structure.exe
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Techniques de réalisation d'interfaces utilisateur\Travaux\Correction du prof\TP_Structure_Meriem\TP_Structure\bin\Debug\TP_Structure.pdb
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Techniques de réalisation d'interfaces utilisateur\Travaux\Correction du prof\TP_Structure_Meriem\TP_Structure\obj\Debug\TP_Structure.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Techniques de réalisation d'interfaces utilisateur\Travaux\Correction du prof\TP_Structure_Meriem\TP_Structure\obj\Debug\TP_Structure.exe
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Techniques de réalisation d'interfaces utilisateur\Travaux\Correction du prof\TP_Structure_Meriem\TP_Structure\obj\Debug\TP_Structure.pdb
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 3\Techniques de réalisation d'interfaces utilisateur\Travaux\Correction du prof\TP_Structure_Meriem\TP_Structure\obj\Debug\TP_Structure.exe
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 3\Techniques de réalisation d'interfaces utilisateur\Travaux\Correction du prof\TP_Structure_Meriem\TP_Structure\obj\Debug\TP_Structure.pdb
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 3\Techniques de réalisation d'interfaces utilisateur\Travaux\Correction du prof\TP_Structure\TP_Structure\obj\Debug\TP_Structure.csproj.AssemblyReference.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 3\Techniques de réalisation d'interfaces utilisateur\Travaux\Correction du prof\TP_Structure\TP_Structure\obj\Debug\TP_Structure.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 3\Techniques de réalisation d'interfaces utilisateur\Travaux\Correction du prof\TP_Structure\TP_Structure\obj\Debug\TP_Structure.exe
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 3\Techniques de réalisation d'interfaces utilisateur\Travaux\Correction du prof\TP_Structure\TP_Structure\obj\Debug\TP_Structure.pdb
+C:\Users\Bmadj\source\repos\C #\TP_Structure\TP_Structure\bin\Debug\TP_Structure.exe.config
+C:\Users\Bmadj\source\repos\C #\TP_Structure\TP_Structure\bin\Debug\TP_Structure.exe
+C:\Users\Bmadj\source\repos\C #\TP_Structure\TP_Structure\bin\Debug\TP_Structure.pdb
+C:\Users\Bmadj\source\repos\C #\TP_Structure\TP_Structure\obj\Debug\TP_Structure.csproj.AssemblyReference.cache
+C:\Users\Bmadj\source\repos\C #\TP_Structure\TP_Structure\obj\Debug\TP_Structure.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\source\repos\C #\TP_Structure\TP_Structure\obj\Debug\TP_Structure.exe
+C:\Users\Bmadj\source\repos\C #\TP_Structure\TP_Structure\obj\Debug\TP_Structure.pdb
